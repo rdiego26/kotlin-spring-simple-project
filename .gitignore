@@ -4,6 +4,9 @@
 # gradle
 .gradle
 
+# build folder
+build/
+
 # Compiled class file
 *.class
 
